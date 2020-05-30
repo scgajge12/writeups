@@ -1,5 +1,7 @@
 # SECCON Beginners CTF 2020
 
+![1](https://user-images.githubusercontent.com/47602064/83330350-3a644f00-a2c9-11ea-8bd0-4408f2ea2bc9.png)
+
 Teams:1352　　　　solves team:962
 
 ## Web

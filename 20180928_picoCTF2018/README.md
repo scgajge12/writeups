@@ -1,6 +1,6 @@
 # picoCTF2018　
 
-[CTFtime](https://ctftime.org/event/681)
+CTFtime https://ctftime.org/event/681
 
 ## Web Exploitation
 

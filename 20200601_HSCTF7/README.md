@@ -2,7 +2,7 @@
 
 ![1](https://user-images.githubusercontent.com/47602064/83931738-41172880-a7d9-11ea-88a4-5438f998a888.png)
 
-[CTFtime](https://ctftime.org/event/939)
+CTFtime https://ctftime.org/event/939
 
 solves team:1466
 

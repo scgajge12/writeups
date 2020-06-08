@@ -75,9 +75,7 @@ Pythonで実行すると以下のプログラムで綺麗にflagを得ること�
 import requests
 import re
 
-headers = {
-	'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'
-}
+headers = {'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)'}
 
 r = requests.get('http://2018shell1.picoctf.com:53383/flag', headers=headers)
 source = r.text
